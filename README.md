@@ -1,19 +1,10 @@
-# 0x00. Fix my code
-
-Debugging
-
--   Weight: 1
--   Project will start Mar 10, 2024 11:00 PM, must end by Mar 24, 2024 11:00 PM
--   Checker was released at Mar 14, 2024 11:00 AM
--   An auto review will be launched at the deadline
+# Fix my code
 
 ## Background Context
 
 `Fix my code` is a new type of project, where we’ll jump into an existing code base and fix it!
 
 Sometimes you will know the language, sometimes not.
-
-Please download the repository [0x00-Fix_My_Code_Challenge](/rltoken/GLYjW57NUS-s-JEsfjuNFA "0x00-Fix_My_Code_Challenge") and use it as initial files for all solutions.
 
 You should not recode everything, just fix it!
 
