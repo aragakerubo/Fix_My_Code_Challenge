@@ -8,11 +8,9 @@ class Square:
 
     def __init__(self, width=0, height=0):
         """Square Constructor"""
-        if width == height:
-            self.width = width
-            self.height = height
-        # else:
-        #     raise ValueError("width and height must be equal")
+
+        self.width = width
+        self.height = height
 
     def area_of_my_square(self):
         """Area of the Square"""
