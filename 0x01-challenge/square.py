@@ -6,11 +6,12 @@ class Square:
     width = 0
     height = 0
 
-    def __init__(self, width=0, height=0):
+    def __init__(self, width=0, height=0, *args, **kwargs):
         """Square Constructor"""
-
-        self.width = width
-        self.height = height
+        if width != 0:
+            self.width = width
+        if height != 0:
+            self.height = height
 
     def area_of_my_square(self):
         """Area of the Square"""
