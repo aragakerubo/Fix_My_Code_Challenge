@@ -11,8 +11,8 @@ class Square:
         if width == height:
             self.width = width
             self.height = height
-        else:
-            raise ValueError("width and height must be equal")
+        # else:
+        #     raise ValueError("width and height must be equal")
 
     def area_of_my_square(self):
         """Area of the Square"""
